@@ -1,0 +1,3 @@
+This dataset comprises 20 groups of polarimetric images. 
+Each groups has three images: 0^0, 60^0, 120^0.
+The dataset tests the performance of AO-MPA.
